@@ -3,6 +3,7 @@ URL XLSX to CSV
 
 Download an XLSX file from the internet and convert and save it as a CSV in the downloads folder.
 
+![Screenshot](./screenshot.png)
 
 ---
 
